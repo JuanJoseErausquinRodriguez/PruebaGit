@@ -5,7 +5,7 @@ public class pruebaGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
 		String palabra = "string";
-
+		System.out.println("palabra");
 	}
 
 }
