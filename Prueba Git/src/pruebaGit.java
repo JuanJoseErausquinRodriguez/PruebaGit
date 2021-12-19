@@ -6,6 +6,7 @@ public class pruebaGit {
 		System.out.println("Hola mundo");
 		String palabra = "string";
 		System.out.println("palabra");
+		System.out.println("Versión remota");
 	}
 
 }
